@@ -1,0 +1,45 @@
+Nombre del estudiante: Juan David Fierro Vasquez
+Fecha:05/05/2026
+Nombre de la rama: MAIN
+
+Responde con tus propias palabras.
+
+1. ¿Qué es JavaScript?
+
+Respuesta: Es un lenguaje de programación que se usa principalmente para hacer que las páginas web sean interactivas como animaciones, botones etc
+
+2. ¿Qué permite hacer Node.js en esta clase?
+
+Respuesta: Permite ejecutar código JavaScript fuera del navegador, directamente en el computador para trabajar con archivos, hacer lógica de programación y correr scripts como el de verificación de algoritmos.
+
+3. ¿Qué hace el comando node algoritmo-verificacion.js?
+
+Respuesta: Ejecuta el archivo llamado algoritmo-verificacion.js usando Node.js, es decir, corre el programa que está dentro de ese archivo y muestra los resultados en la terminal.
+
+4. ¿Qué es una variable?
+
+Respuesta: Es un espacio en la memoria de la computadora donde se guarda un valor como un numero, texto o verdadero/falso que puede cambiar durante la ejecución del programa.
+
+5. ¿Para qué se usa const?
+
+Respuesta: Se usa para declarar variables cuyo valor no va a cambiar después de asignarlas. Es decir una constante.
+
+6. ¿Para qué se usa let?
+
+Respuesta: Se usa para declarar variables cuyo valor sí puede cambiar más adelante en el programa.
+
+7. ¿Qué significa if?
+
+Respuesta: Es una palabra clave que significa SI y se usa para ejecutar un bloque de código solo si se cumple una condición
+
+8. ¿Qué significa else?
+
+Respuesta: Significa SI NO y se usa junto con if para ejecutar otro bloque de código cuando la condición del if no se cumple.
+
+9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
+
+Respuesta: Porque tanto en programación como en internet hay que evaluar condiciones antes de actuar. Tomar una decisión responsable implica analizar si se cumple cierta veracidad y luego elegir entre distintas opciones.
+
+10. ¿Cómo se relaciona este ejercicio con la verificación de información?
+
+Respuesta: El ejercicio usaba variables y condiciones if/else para comprobar si un dato era verdadero o falso. Esto es similar a verificar información en internet primero se tiene un dato, luego se compara con una fuente confiable y según el resultado, se toma una decisión.
