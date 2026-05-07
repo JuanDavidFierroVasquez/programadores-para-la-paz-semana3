@@ -1,0 +1,16 @@
+Repositorio
+
+un repositorio es un espacio que almacena archivos y todo su historial de cambios.
+Es ideal para desarrollar proyectos y gestionarlos en equipo.
+
+
+Commit
+
+un commit es como tomar una foto del proyecto en un momento especifico.
+cada commit representa un punto de control en un conjunto de cambios con un mensaje que explica los cambios.
+
+
+Push
+
+es un comando que sube tus commits de tu repositorio local al repositorio remoto.
+es el paso que hace que tu trabajo se visible, compartido y respaldado en la nube.
